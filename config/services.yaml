@@ -1,0 +1,6 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  Pvlg\Bundle\AltairGraphqlBundle\Controller\AltairController:

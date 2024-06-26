@@ -1,0 +1,3 @@
+altair:
+  path: /graphql/altair
+  controller: 'Pvlg\Bundle\AltairGraphqlBundle\Controller\AltairController::index'
